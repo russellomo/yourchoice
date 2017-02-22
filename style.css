@@ -1,0 +1,15 @@
+.ui.borderless.topmenu.menu {
+
+  box-shadow: none;
+  border: none;
+}
+.ui.borderless.middlemenu.menu {
+  box-shadow: none;
+  border: none;
+}
+
+.ui.center.aligned.middlebutton.segment {
+
+  box-shadow: none;
+  border: none;
+}
